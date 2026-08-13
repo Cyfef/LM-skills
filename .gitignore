@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Weights
+/Post-training/Bagel/models/
+
+
+# Data
+/Post-training/Bagel/data/bagel_example/
+/Post-training/Bagel/flash_attn-2.7.4.post1+cu12torch2.5cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
+/Post-training/Bagel/bagel_example.zip

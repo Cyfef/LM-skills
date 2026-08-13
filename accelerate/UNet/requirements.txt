@@ -1,0 +1,17 @@
+numpy
+pandas
+# torch
+# torchvision
+
+accelerate
+
+matplotlib
+tqdm
+
+ipykernel
+ipywidgets
+
+kagglehub
+huggingface_hub
+wandb
+nbformat
